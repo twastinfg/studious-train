@@ -1,1 +1,0 @@
-Drag all of these files inside the "images" folder.
